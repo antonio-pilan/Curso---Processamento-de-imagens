@@ -5,4 +5,6 @@ No ambiente virtual venv tem todas as bibliotecas necessárias para rodar os có
 
 <p>
 As tarefas e estudos vão estar separadas em pastas para melhor organização, tentarei manter tudo o mais direto possível para fácil
+
+<i>Prof. Dr. Fernando F. Paiva</i>
 </p>
